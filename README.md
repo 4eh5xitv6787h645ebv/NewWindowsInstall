@@ -15,13 +15,8 @@ Features:
 
 How to Run:
 
-Execute the script using the following command:
-
-arduino
+Execute as Admin in Powershell using the following command:
 
 PowerShell -ExecutionPolicy Bypass -File "[location of file]"
 
 Replace [location of file] with the path to the script.
-Note:
-
-Ensure you have the necessary permissions and backups before running the script, especially if making changes to system settings or the registry.
